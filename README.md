@@ -6,9 +6,7 @@
 - 🌱 I'm working on my skills in **C#, ASP.NET & SQL**
 
 - 📫 How to reach me **alexander.lm2006@gmail.com**
-
-- ⚡ Fun fact **I like writing and reading books**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
