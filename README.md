@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=27salex&label=Profile%20views&color=14a5ff&style=plastic" alt="27salex" /> </p>
 
-- 🌱 I’m currently learning **C#, ASP.NET & SQL**
+- 🌱 I'm working on my skills in **C#, ASP.NET & SQL**
 
 - 📫 How to reach me **alexander.lm2006@gmail.com**
 
